@@ -1,1 +1,2 @@
-"# Recalled-Sprite" 
+Recalled-Sprite [DEMO]
+Game by SlenderIO Games
